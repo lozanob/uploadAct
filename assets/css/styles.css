@@ -1,0 +1,28 @@
+.bar-porcent{
+
+	width: 100px; 
+	height: 15px; 
+
+
+	border: 1px solid #008000; 
+	border-radius: 10px; 
+
+}
+
+.porcent{
+
+	width:10px; 
+	height:13px;
+
+	border: 1px solid #008000; 
+	background-color: #008000; 
+	border-radius: 14px; 
+
+
+}
+
+
+.imgbtn{
+
+	width: 25px;
+}
